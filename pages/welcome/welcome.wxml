@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="user-avatar" src="/images/avatar/1.png"></image>
+    <text class="user-name">D O double G</text>
+    <view class="moto-container" bindtap="onTap">
+        <text class="moto">点击开始体验</text>
+    </view>
+</view>
